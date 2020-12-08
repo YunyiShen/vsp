@@ -56,9 +56,9 @@ Suggests:
 VignetteBuilder: 
     knitr
 Remotes: 
-    RoheLab/fastadi,
+    YunyiShen/fastadi,
     RoheLab/invertiforms,
-    RoheLab/LRMF3
+    YunyiShen/LRMF3
 Config/testthat/edition: 3
 Encoding: UTF-8
 LazyData: true
